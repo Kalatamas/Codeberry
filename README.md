@@ -1,2 +1,2 @@
 # Codeberry
-BlueBerry tananyag
+CodeBerry tananyag
